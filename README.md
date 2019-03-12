@@ -1,3 +1,3 @@
 # hello-world
-creating a repository
+creating another repository
 
